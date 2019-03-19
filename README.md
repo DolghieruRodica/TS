@@ -14,7 +14,7 @@
 
 [Condrea Liliana](https://gitlab.com/CondreaLilianaSI/testaresoft.git?fbclid=IwAR1Ypk1XZKgLwbVPpWjVe4NdaLnE9-hiH4EZIB0Rtk-ZY9VdTgsgriEOHYk)
 
-[Dolghieru Rodica]()
+[Dolghieru Rodica](https://github.com/DolghieruRodica/TS)
 
 [Iarinvovschi Corneliu](https://github.com/Yacomay/testare-software?fbclid=IwAR1_QKyhPGTOYTYlKi8XkPxpUWqzio6J9toTaEelr8Uq9JKoX4XlRdgelSA)
 
