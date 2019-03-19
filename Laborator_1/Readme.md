@@ -1,0 +1,1 @@
+Lab 1: Au fost create doua pagini : index.html cu forma de logare si script cs care va verifica prin Selenium corectiudinea datelor introduse. In cazul autentificarii de success suntem aruncati pe urmatoarea pagina next_page.html
