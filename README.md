@@ -12,7 +12,7 @@
 
 [Ciocirlan Nicolae]()
 
-[Condrea Liliana](https://gitlab.com/CondreaLilianaSI/testaresoft.git?fbclid=IwAR1Ypk1XZKgLwbVPpWjVe4NdaLnE9-hiH4EZIB0Rtk-ZY9VdTgsgriEOHYk)
+[Condrea Liliana](https://gitlab.com/CondreaLilianaSI/testaresoftware.git?fbclid=IwAR3iF7CgABAbcK-AZBYrv8mqhKYHfV_vFy-6QhpgErlZXCuNTMvzlNFulpc)
 
 [Dolghieru Rodica](https://github.com/DolghieruRodica/TS)
 
